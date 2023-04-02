@@ -1,0 +1,28 @@
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\bin\Debug\net6.0\Asp.net - intro-practica.exe
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\bin\Debug\net6.0\Asp.net - intro-practica.deps.json
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\bin\Debug\net6.0\Asp.net - intro-practica.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\bin\Debug\net6.0\Asp.net - intro-practica.dll
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\bin\Debug\net6.0\Asp.net - intro-practica.pdb
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\staticwebassets\msbuild.Asp.net - intro-practica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\staticwebassets\msbuild.build.Asp.net - intro-practica.props
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Asp.net - intro-practica.props
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Asp.net - intro-practica.props
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\scopedcss\bundle\Asp.net - intro-practica.styles.css
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.dll
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\refint\Asp.net - intro-practica.dll
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.pdb
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\ref\Asp.net - intro-practica.dll
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\homework\AspNet\Asp.net - intro\Asp.net - intro-practica\Asp.net - intro-practica\obj\Debug\net6.0\Asp.net - intro-practica.RazorAssemblyInfo.cs

@@ -1,0 +1,19 @@
+﻿
+@model int[]
+
+
+
+<section id ="home">
+    <div class="navbar">
+
+        @foreach (var item in Model)
+        {
+            if (item % 2 == 1) 
+            {
+                <h3>@item</h3>
+            }
+        }
+
+    </div>
+</section>
+
